@@ -11,3 +11,5 @@
 09、解决安卓Path无法序列化问题，图形(Path)可永久保存为JSON文件，可重新进行再次编辑  
 10、轨迹可导出为SVG，PNG等格式图片  
 11、单击或TouchMove套索模式选择图形，选择后可删除，修改颜色和复制  
+
+![image](https://images.gitee.com/uploads/images/2021/0315/114058_1251f712_8584819.jpeg)
