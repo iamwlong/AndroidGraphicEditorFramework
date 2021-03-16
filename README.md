@@ -12,5 +12,9 @@
 10、轨迹可导出为SVG，PNG等格式图片  
 11、单击或TouchMove套索模式选择图形，选择后可删除，修改颜色和复制  
 
+Android Graphic Edit Framework Canvas Path SurfaceView  
+
+技术交流QQ:31682828  
+
 ![image](https://images.gitee.com/uploads/images/2021/0315/114058_1251f712_8584819.jpeg)
 ![image](https://images.gitee.com/uploads/images/2021/0315/114110_25fedf38_8584819.jpeg)
